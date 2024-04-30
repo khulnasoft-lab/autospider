@@ -7,7 +7,7 @@ with open(Path(__file__).resolve().parent / "README.md", encoding="utf-8") as f:
 
 setup(
     name="autospider",
-    version="1.1.1",  # Updated version number
+    version="1.1.11",  # Updated version number
     description="A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
